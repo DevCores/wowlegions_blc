@@ -22,7 +22,10 @@
 
 ## Server version
 <ul>
-<li>Legion 7.*</li>
+World of Warcraft:
+<li>Cataclysm - 4.3.4</li>
+<li>Wrath of the Lich King - 3.3.5</li>
+<li>The Burning Crusade - 2.4.3</li>
 </ul>
 <blockquote>
 <p><strong>Note:</strong> The site is still under development.</p>
@@ -31,7 +34,7 @@
 ## Information
 
 <ul>
-<li><a href="http://wowlegions.ru/" rel="nofollow">Demo site here</a>.</li>
+<li><a href="http://wotlk.wowlegions.ru/" rel="nofollow">Demo site here</a>.</li>
 <li><a href="https://github.com/anonymous33rus/wowlegions/issues" rel="nofollow">Bugtracker</a>.</li>
 </ul>
 
